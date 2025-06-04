@@ -39,6 +39,24 @@ Interactive dashboard displaying:
   
 - Material components with CardViews and animations
 
+* Skills Learned
+
+Java Programming: Developed Android applications using Java language.
+
+Android Development: Worked with Activities, designed user interfaces (UI) using XML, and managed the app lifecycle.
+
+SQLite Database: Created and managed local databases to store financial transactions.
+
+Material Design: Utilized modern UI components like CardViews, consistent color schemes, and animations to enhance user experience.
+
+Version Control with Git & GitHub: Managed project versions and collaborated using Git and GitHub.
+
+Gradle Build System: Configured and built the project using Gradle.
+
+Localization: Implemented multi-language support and currency selection based on user preferences.
+
+Debugging & Testing: Wrote basic tests and developed skills to identify and fix bugs effectively.
+
 How to Run:
 
 1-Clone the repository:
